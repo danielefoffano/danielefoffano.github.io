@@ -40,6 +40,7 @@ Work experience
 * July 2018 - September 2018: Intern (Project Software Developer)
   * Majestic-12 Ltd, Birmingham
   * Worked within a team of 3 students: we were given access to the company dataset and we had to come up and implement a new and useful tool to integrate in the company main product. The final work was really appreciated by our supervisors, who decided to develop it further in order to deploy it in the production environment.
+
 <!--Publications
 ======
   <ul>{% for post in site.publications %}
