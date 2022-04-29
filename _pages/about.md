@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Decision and Control Systems department at KTH Royal Institute of Technology in Stockholm. I am interested in (Robust) (Scalable) (Deep) (Multi-Agent) Reinforcement Learning, Interactive Learning and Decision Making, Game Theory. Previously, I received my MSc in Computer Science from TU Delft (2022) and my BSc in Computer Science from Ca' Foscari University of Venice (2018).
+I am a PhD candidate at the Decision and Control Systems division at KTH Royal Institute of Technology in Stockholm. I am interested in (Robust) (Scalable) (Deep) (Multi-Agent) Reinforcement Learning, Interactive Learning and Decision Making, Game Theory. Previously, I received my MSc in Computer Science from TU Delft (2022) and my BSc in Computer Science from Ca' Foscari University of Venice (2018).
