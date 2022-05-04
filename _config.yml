@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Daniele Foffano"
-  avatar           : "profile.png"
+  avatar           : "DSC_0707.JPG"
   bio              : "PhD candidate at KTH Royal Institute of Technology."
   location         : "Stockholm"
   employer         :
   pubmed           :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : foffano[at]kth.se
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
