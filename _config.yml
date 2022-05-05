@@ -86,8 +86,8 @@ author:
   location         : "Stockholm"
   employer         :
   pubmed           :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : foffano[at]kth.se
+  googlescholar    : "https://scholar.google.com/citations?user=gGrv6zYAAAAJ&hl=en"
+  email            : foffano (at) kth (dot) se
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
