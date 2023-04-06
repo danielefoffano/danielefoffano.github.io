@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* BSc. in Computer Science, Ca' Foscari University of Venice, 2018
+* Ph.D in Robust and Scalable Reinforcement Learning, KTH Royal Institute of Technology, 2027 (expected)
 * MSc. in Computer Science, Delft University of Technology, 2022
-* Ph.D in Robust and Scalable Reinforcement Learning, KTH Royal Institute of Technology, 2026 (expected)
+* BSc. in Computer Science, Ca' Foscari University of Venice, 2018
 
 Work experience
 ======
