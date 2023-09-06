@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 [Conformal Off-Policy Evaluation in Markov Decision Processes](https://arxiv.org/abs/2304.02574)\
-EEE Conference on Decision and Control (CDC), 2023  
+IEEE Conference on Decision and Control (CDC), 2023  
 **D. Foffano**, A. Russo and A. Proutiere.
 
 [Robust Ensemble Adversarial Model-Based Reinforcement Learning](https://ala2022.github.io/papers/ALA2022_paper_31.pdf)\
