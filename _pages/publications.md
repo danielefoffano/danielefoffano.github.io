@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Adversarial Diffusion for Robust Reinforcement Learning**\
+Advances in Neural Information Processing Systems (NeurIPS), 2025  
+**D. Foffano**, A. Russo and A. Proutiere.
+
 [Conformal Off-Policy Evaluation in Markov Decision Processes](https://arxiv.org/abs/2304.02574)\
 IEEE Conference on Decision and Control (CDC), 2023  
 **D. Foffano**, A. Russo and A. Proutiere.
