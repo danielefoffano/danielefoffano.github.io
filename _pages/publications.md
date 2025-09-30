@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Adversarial Diffusion for Robust Reinforcement Learning**\
+[Adversarial Diffusion for Robust Reinforcement Learning](https://arxiv.org/abs/2509.23846)\
 Advances in Neural Information Processing Systems (NeurIPS), 2025  
 **D. Foffano**, A. Russo and A. Proutiere.
 
