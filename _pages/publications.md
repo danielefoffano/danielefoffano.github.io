@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 [Adversarial Diffusion for Robust Reinforcement Learning](https://arxiv.org/abs/2509.23846)\
-Advances in Neural Information Processing Systems (NeurIPS), 2025  
+Advances in Neural Information Processing Systems (NeurIPS), 2025\
+and NeurIPS 2025 Workshop on Embodied World Models for Decision Making\
 **D. Foffano**, A. Russo and A. Proutiere.
 
 [Conformal Off-Policy Evaluation in Markov Decision Processes](https://arxiv.org/abs/2304.02574)\
