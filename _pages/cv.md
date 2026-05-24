@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Visiting Ph.D Student, National Institute of Informatics, Tokyo, April-September 2026
 * Ph.D in Robust and Scalable Reinforcement Learning, KTH Royal Institute of Technology, Fall 2026 (expected)
+  * Visiting Ph.D Student, National Institute of Informatics, Tokyo, April-September 2026
 * MSc. in Computer Science, Delft University of Technology, 2022
 * BSc. in Computer Science, Ca' Foscari University of Venice, 2018
 
