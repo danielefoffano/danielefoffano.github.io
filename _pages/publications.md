@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Receding-Horizon Control via Drifting Models](https://arxiv.org/abs/2604.04528)\
+Under submission, 2026\
+**D. Foffano**, A. Russo and A. Proutiere.
+
+[Advantage-Guided Diffusion for Model-Based Reinforcement Learning](https://arxiv.org/abs/2604.09035)\
+European Control Conference (ECC), 2026\
+**D. Foffano**, A. Eriksson, D. Broman, K. H. Johansson and A. Proutiere.
+
 [Adversarial Diffusion for Robust Reinforcement Learning](https://arxiv.org/abs/2509.23846)\
 Advances in Neural Information Processing Systems (NeurIPS), 2025\
 and NeurIPS 2025 Workshop on Embodied World Models for Decision Making\
